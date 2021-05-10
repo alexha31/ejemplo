@@ -1,4 +1,4 @@
-from flask import Flask, render template
+from flask import Flask, redirect, url_for
 
 app=Flak(__name__)
 
